@@ -1,0 +1,15 @@
+body {
+    margin: 0 auto;
+    width: 80%;
+  }
+
+.filterRow{display: flex; margin-bottom: 20px;}
+.filterOption{ width: 200px;}
+.pad-left{ padding-left: 10px;}
+.icon-size{font-size: 18px;}
+
+
+.add-icon{ 
+    position: absolute;
+    right: 0px;
+}
